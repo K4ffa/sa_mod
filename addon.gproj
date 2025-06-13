@@ -1,0 +1,22 @@
+GameProject {
+ ID "ErsterTest"
+ GUID "6596DBD77C54B7F7"
+ TITLE "ErsterTest"
+ Dependencies {
+  "58D0FB3206B6F859" "5D58A217A9611AFB" "5D6EA74A94173EDF" "5D6EBC81EB1842EF"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

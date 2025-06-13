@@ -1,0 +1,195 @@
+$grp SCR_BaseTriggerEntity : "{70F6B2FBA7713286}Prefabs/NoBuildOld(Doesn't Work).et" {
+ {
+  coords 112.972 80.061 -230.378
+  SphereRadius 409.8
+  DrawShape 1
+ }
+ {
+  coords 6336.833 16.824 9655.578
+  SphereRadius 69.4
+  DrawShape 1
+ }
+ {
+  coords 8822.419 198.131 3913.987
+  SphereRadius 147.3
+  DrawShape 1
+ }
+ {
+  coords 12799.675 44.996 12374.235
+  SphereRadius 148.1
+  DrawShape 1
+ }
+ {
+  coords 5668.604 83.899 5503.307
+  SphereRadius 59.3
+  DrawShape 1
+ }
+ {
+  coords 1417.981 62.39 6148.011
+  SphereRadius 87.2
+  DrawShape 1
+ }
+ {
+  coords 4231.49 40.764 10294.433
+  SphereRadius 141.9
+  DrawShape 1
+ }
+ {
+  coords 10322.703 158.092 2022.042
+  SphereRadius 146.2
+  DrawShape 1
+ }
+ {
+  coords 12577.577 84.52 12755.273
+  SphereRadius 106.2
+  DrawShape 1
+ }
+ {
+  coords 3518.985 181.829 5823.394
+  SphereRadius 166
+  DrawShape 1
+ }
+ {
+  coords 8886.626 103.093 2888.872
+  DrawShape 1
+ }
+ {
+  coords 10272.893 201.012 3098.119
+  SphereRadius 139
+  DrawShape 1
+ }
+ {
+  coords 6296.734 117.138 5286.762
+  DrawShape 1
+ }
+ {
+  coords 6292.317 31.287 3979.243
+  SphereRadius 95.9
+  DrawShape 1
+ }
+ {
+  coords 4866.279 25.007 12059.598
+  DrawShape 1
+ }
+ {
+  coords 10653.913 185.937 2478.92
+  SphereRadius 63.9
+  DrawShape 1
+ }
+ {
+  coords 7216.391 118.531 4999.119
+  SphereRadius 85.1
+  DrawShape 1
+ }
+ {
+  coords 4433.421 52.315 6153.475
+  SphereRadius 78.7
+  DrawShape 1
+ }
+ {
+  coords 4288.074 61.641 5824.443
+  SphereRadius 84.8
+  DrawShape 1
+ }
+ {
+  coords 7711.443 323.686 3265.618
+  DrawShape 1
+ }
+ {
+  coords 7685.543 340.566 3069.297
+  SphereRadius 61.9
+  DrawShape 1
+ }
+ {
+  coords 3438.071 0.877 3383.223
+  DrawShape 1
+ }
+ {
+  coords 3005.049 18.94 1891.064
+  SphereRadius 213.7
+  DrawShape 1
+ }
+ {
+  coords 5329.203 134.2 4561.416
+  DrawShape 1
+ }
+ {
+  coords 5747.329 226.368 7231.727
+  SphereRadius 76.1
+  DrawShape 1
+ }
+ {
+  coords 7455.724 7.914 6748.485
+  SphereRadius 108.3
+  DrawShape 1
+ }
+ {
+  coords 5835.139 4.563 9751.613
+  SphereRadius 122.9
+  DrawShape 1
+ }
+ {
+  coords 9186.151 6.632 5393.554
+  SphereRadius 106.6
+  DrawShape 1
+ }
+ {
+  coords 7512.896 165.75 4275.765
+  SphereRadius 135.3
+  DrawShape 1
+ }
+ {
+  coords 5156.314 30.548 10236.291
+  DrawShape 1
+ }
+ {
+  coords 3878.608 15.281 8449.767
+  SphereRadius 97.5
+  DrawShape 1
+ }
+ {
+  coords 11711.23 4.694 2093.62
+  DrawShape 1
+ }
+ {
+  coords 875.476 4.139 6075.574
+  SphereRadius 11.7
+  DrawShape 1
+ }
+ {
+  coords 5023.896 174.803 7035.432
+  angleY -87.894
+  SphereRadius 11.7
+  DrawShape 1
+ }
+ {
+  coords 12674.921 0 5293.634
+  SphereRadius 282.5
+  DrawShape 1
+ }
+ {
+  coords 5281.302 1.922 11995.599
+  SphereRadius 90.7
+  DrawShape 1
+ }
+ {
+  coords 9228.846 9.797 5723.227
+  SphereRadius 147.2
+  DrawShape 1
+ }
+ {
+  coords 10728.002 24.422 4101.938
+  SphereRadius 73.6
+  DrawShape 1
+ }
+ {
+  coords 7877.6 256.688 4014.136
+  SphereRadius 129.5
+  DrawShape 1
+ }
+ {
+  coords 64.287 108.38 9022.806
+  SphereRadius 182.7
+  DrawShape 1
+ }
+}

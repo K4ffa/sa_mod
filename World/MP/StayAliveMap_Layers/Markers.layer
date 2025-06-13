@@ -1,0 +1,842 @@
+$grp GenericEntity : "{3296B25131105C72}Prefabs/Structures/Encounter/Bunker/Bunker_Marker_GM.et" {
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "North Bunker Entrance"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 4847.705 31.96 12043.735
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "Black Market"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 5279.37 1.136 11997.506
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "North Mineshaft Entrance"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 4249.218 40.562 10282.785
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "Metal Facility"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 5061.17 27.701 10847.351
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "Central Mineshaft Entrance"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 5668.694 92.412 5502.731
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "West Fort"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 5313.044 133.852 4565.13
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "Calvary Hill Castle"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 3463.28 177.066 5847.009
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "West Mineshaft Entrance"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 1410.897 62.781 6156.255
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "Thollevast Prision"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 3047.152 18.088 1931.077
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "Labratory Entrance"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 7871.563 263.177 4019.716
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 8896.933 212.805 3978.947
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "South Mineshaft Entrance"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 10318.783 157.743 2024.118
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "Oil Rig"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 6296.349 38.024 3988.642
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "Civilian Camp"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 8239.345 24.578 9758.74
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableCommentComponent "{529AB059519FE609}" {
+    m_UIInfo SCR_EditableCommentUIInfo "{5298E609432D192D}" {
+     Name "Ravager's Point"
+    }
+   }
+   SCR_MapDescriptorComponent "{527892B6ED748CEB}" {
+    Enabled 0
+   }
+  }
+  coords 6341.457 5.523 9647.849
+  angleY 0
+ }
+}
+$grp GenericEntity : "{C72F956E4AC6A6E7}Prefabs/Systems/ScenarioFramework/Components/Area.et" {
+ Area1 {
+  coords 10294.616 49.767 435.649
+  angleY -12.781
+  {
+   GenericEntity Layer1 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+   }
+  }
+ }
+ Area3 {
+  coords 6284.684 9.879 3979.537
+  angleY -12.781
+  {
+   GenericEntity Layer3 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker2 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Contamination Zone (Coming Soon)"
+         m_eMapMarkerIcon POINT_OF_INTEREST3
+         m_eMapMarkerColor RED
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area4 {
+  coords 3507.369 180.981 5808.639
+  angleY -12.781
+  {
+   GenericEntity Layer4 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker3 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Calvary Hill Castle"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area6 {
+  coords 5745.608 226.364 7243.047
+  angleY -12.781
+  {
+   GenericEntity Layer6 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+   }
+  }
+ }
+ Area7 {
+  coords 8237.319 24.575 9759.194
+  angleY -12.781
+  {
+   GenericEntity Layer7 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0.001 0 0
+    {
+     GenericEntity SlotMarker6 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Civillian Camp (WIP)"
+         m_eMapMarkerIcon POINT_OF_INTEREST
+         m_eMapMarkerColor BLUE
+        }
+       }
+      }
+      coords 0.001 0 0
+     }
+    }
+   }
+  }
+ }
+ Area9 {
+  coords 10282.463 209.697 3176.523
+  angleY -12.781
+  {
+   GenericEntity Layer9 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker8 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Dark Church"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area10 {
+  coords 10633.987 191.121 2425.859
+  angleY -12.781
+  {
+   GenericEntity Layer10 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker9 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Old Facility"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area12 {
+  coords 6513.889 88.374 5268.43
+  angleY -12.781
+  {
+   GenericEntity Layer12 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker11 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Main Checkpoint"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area13 {
+  coords 5357.66 81.01 6322.496
+  angleY -12.781
+  {
+   GenericEntity Layer13 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker12 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Main Checkpoint"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area14 {
+  coords 7208.393 118.728 4995.505
+  angleY -12.781
+  {
+   GenericEntity Layer14 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker13 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Old Forest Camp"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area15 {
+  coords 6812.214 71.489 4842.587
+  angleY -12.781
+  {
+   GenericEntity Layer15 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker14 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "South Checkpoint"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area17 {
+  coords 5150.335 30.177 10231.332
+  angleY -12.781
+  {
+   GenericEntity Layer17 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker16 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Radiar Base"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area2 {
+  coords 8923.481 233.523 3999.173
+  {
+   GenericEntity Layer2 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords -0.002 -0.001 0
+    {
+     GenericEntity SlotMarker1 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{646432E61E22CE54}" {
+         m_sMapMarkerText "Bunker"
+         m_eMapMarkerIcon POINT_OF_INTEREST
+         m_eMapMarkerColor BLUE
+        }
+       }
+      }
+      coords -0.051 -0.01 -0.049
+      angleX -2.617
+      angleY -0.048
+      angleZ 2.714
+     }
+    }
+   }
+  }
+ }
+ Area19 {
+  coords 5668.716 83.903 5503.428
+  {
+   GenericEntity Layer19 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker17 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{646432E61E22CE54}" {
+         m_sMapMarkerText "Central Mineshaft Entrance"
+         m_eMapMarkerIcon POINT_OF_INTEREST
+         m_eMapMarkerColor BLUE
+        }
+       }
+      }
+      coords -0.051 0.047 -0.049
+      angleX -2.617
+      angleY -0.048
+      angleZ 2.714
+     }
+    }
+   }
+  }
+ }
+ Area20 {
+  coords 10322.905 158.704 2021.874
+  {
+   GenericEntity Layer20 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker18 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{646432E61E22CE54}" {
+         m_sMapMarkerText "South Mineshaft Entrance"
+         m_eMapMarkerIcon POINT_OF_INTEREST
+         m_eMapMarkerColor BLUE
+        }
+       }
+      }
+      coords -0.051 0.047 -0.049
+      angleX -2.617
+      angleY -0.048
+      angleZ 2.714
+     }
+    }
+   }
+  }
+ }
+ Area21 {
+  coords 4260.182 40.335 10290.982
+  {
+   GenericEntity Layer21 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0.002
+    {
+     GenericEntity SlotMarker19 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{646432E61E22CE54}" {
+         m_sMapMarkerText "North Mineshaft Entrance"
+         m_eMapMarkerIcon POINT_OF_INTEREST
+         m_eMapMarkerColor BLUE
+        }
+       }
+      }
+      coords -0.049 0 -0.049
+      angleX -2.617
+      angleY -0.048
+      angleZ 2.714
+     }
+    }
+   }
+  }
+ }
+ Area24 {
+  coords 6468.781 162.062 6482.471
+  angleY -12.781
+  {
+   GenericEntity Layer24 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker22 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Metal Facility"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor BLUE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area25 {
+  coords 5057.497 27.727 10849.745
+  angleY -12.781
+  {
+   GenericEntity Layer25 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker23 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Metal Facility"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor BLUE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area27 {
+  coords 4864.548 28.988 11915.921
+  angleY -12.781
+  {
+   GenericEntity Layer27 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 9.409 -4.194 127.76
+    angleY 38.09
+    {
+     GenericEntity SlotMarker25 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Northern Military Bunker Entrance"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area28 {
+  coords 1405.079 64.324 6153.026
+  {
+   GenericEntity Layer28 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0.003 0.001
+    {
+     GenericEntity SlotMarker26 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{646432E61E22CE54}" {
+         m_sMapMarkerText "West Mineshaft Entrance"
+         m_eMapMarkerIcon POINT_OF_INTEREST
+         m_eMapMarkerColor BLUE
+        }
+       }
+      }
+      coords -0.052 -0.206 -0.048
+      angleX -2.617
+      angleY -0.048
+      angleZ 2.714
+     }
+    }
+   }
+  }
+ }
+ Area29 {
+  coords 5279.487 1.306 11987.354
+  {
+   GenericEntity Layer29 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker27 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{646432E61E22CE54}" {
+         m_sMapMarkerText "Black Market (WIP)"
+         m_eMapMarkerIcon POINT_OF_INTEREST
+         m_eMapMarkerColor RED
+        }
+       }
+      }
+      coords -0.051 0.047 -0.049
+      angleX -2.617
+      angleY -0.048
+      angleZ 2.714
+     }
+    }
+   }
+  }
+ }
+ Area32 {
+  coords 872.164 3.228 6074.261
+  angleY -12.781
+  {
+   GenericEntity Layer32 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker29 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Sewer Entrance"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords -0.001 0 0
+     }
+    }
+   }
+  }
+ }
+ Area30 {
+  coords 5026.929 175.156 7033.23
+  angleY -46.078
+  {
+   GenericEntity Layer30 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker10 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Sewer Entrance"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0.002
+     }
+    }
+   }
+  }
+ }
+ Area16 {
+  coords 8765.021 193.749 3831.23
+  angleY -12.781
+  {
+   GenericEntity Layer16 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0.001 0 0
+    {
+     GenericEntity SlotMarker5 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Vehicle Shop"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor BLUE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area11 {
+  coords 7888.144 257.484 3998.101
+  angleY -12.781
+  {
+   GenericEntity Layer11 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker7 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Laboratory Entrance (WIP)"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area5 {
+  coords 3030.196 22.89 1881.28
+  angleY -12.781
+  {
+   GenericEntity Layer5 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker4 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Thollevast Prison"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area18 {
+  coords 6342.835 5.527 9649.104
+  angleY -12.781
+  {
+   GenericEntity Layer18 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker15 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Ravager's Point"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+ Area22 {
+  coords 7625.587 0.327 8563.01
+  angleY -12.781
+  {
+   GenericEntity Layer22 : "{5F9FFF4BF027B3A3}Prefabs/Systems/ScenarioFramework/Components/Layer.et" {
+    coords 0 0 0
+    {
+     GenericEntity SlotMarker20 : "{E537867C6E760514}Prefabs/Systems/ScenarioFramework/Components/SlotMarker.et" {
+      components {
+       SCR_ScenarioFrameworkSlotMarker "{5EA2BD9901E5E82E}" {
+        m_MapMarkerType SCR_ScenarioFrameworkMarkerCustom "{633D03978FC9A2EB}" {
+         m_sMapMarkerText "Civ Boat"
+         m_eMapMarkerIcon POINT_SPECIAL
+         m_eMapMarkerColor ORANGE
+        }
+       }
+      }
+      coords 0 0 0
+     }
+    }
+   }
+  }
+ }
+}
